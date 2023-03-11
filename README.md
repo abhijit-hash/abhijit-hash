@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijit-hash&show_icons=true&locale=en" alt="abhijit-hash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijit-hash&" alt="abhijit-hash" /></p>
+<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=abhijit-hash&bg_color=010109&color=eff1f6&line=06b290&point=fffafa&area=true&hide_border=true" alt="abhijit-hash" /></p>
+
