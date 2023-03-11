@@ -1,4 +1,4 @@
-[![Masterhead](https://mishpacha.com/wp-content/uploads/2022/07/So-You-Want-to-Be-a%E2%80%A6-Web-Developer-R.jpg)]
+![Masterhead](https://mishpacha.com/wp-content/uploads/2022/07/So-You-Want-to-Be-a%E2%80%A6-Web-Developer-R.jpg)
 <h1 align="center">Hi 👋, I'm ABHIJIT PAL</h1>
 <h3 align="center">DSA ENTHUSIAST || FULL STACK DEVELOPER ENTHUSIAST</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
