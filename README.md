@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhijit-pal-35813a243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijit-pal-35813a243" height="30" width="40" /></a>
-<a href="https://fb.com/id=100043790742663" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="id=100043790742663" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100043790742663" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100043790742663" height="30" width="40" /></a>
 <a href="https://instagram.com/subujpaul2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subujpaul2003" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sobuj_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sobuj_2003" height="30" width="40" /></a>
 <a href="https://discord.gg/abhijit #0486" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abhijit #0486" height="30" width="40" /></a>
