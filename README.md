@@ -1,8 +1,8 @@
 ![Masterhead](https://mishpacha.com/wp-content/uploads/2022/07/So-You-Want-to-Be-a%E2%80%A6-Web-Developer-R.jpg)
 <h1 align="center">Hi 👋, I'm ABHIJIT PAL</h1>
 <h3 align="center">DSA ENTHUSIAST || FULL STACK DEVELOPER ENTHUSIAST</h3>
-<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
-<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"
+<img align="right" alt="coding" width="400" height="250" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="left" alt="coding" width="400" height="250" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijit-hash&label=Profile%20views&color=0e75b6&style=flat" alt="abhijit-hash" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijit-hash" alt="abhijit-hash" /></a> </p>
