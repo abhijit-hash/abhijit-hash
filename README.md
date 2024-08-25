@@ -32,5 +32,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijit-hash&show_icons=true&locale=en" alt="abhijit-hash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijit-hash&" alt="abhijit-hash" /></p>
+## 🏆 **LeetCode Stats**
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/sobuj_2003?theme=nord&font=Livvic" alt="LeetCode Stats">
+</div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijit-hash&theme=synthwave-84&true&hide_border=true" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
